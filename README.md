@@ -1,6 +1,6 @@
 # 🚀 Estructura de datos 🚀
 
-Este repositorio alberga una serie de hitos críticos para el curso "Base de Datos 2", proporcionando un arsenal de recursos, guías y scripts SQL que son esenciales para aprender sobre el tema
+Este repositorio alberga una serie de hitos críticos para el curso "Estructura de datos", proporcionando un arsenal de recursos, guías que son esenciales para aprender sobre el tema
 
 ## 🌟 Hitos 🌟
 
